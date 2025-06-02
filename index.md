@@ -1,4 +1,7 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# marvelous-theme
+
+This is my first theme using Jekyll
