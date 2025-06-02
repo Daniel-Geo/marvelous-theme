@@ -1,7 +1,7 @@
 ---
-title: Home
+title: marvelous-theme
 ---
 
 # marvelous-theme
 
-This is my first Jekyll theme using
+This is my first Jekyll theme
