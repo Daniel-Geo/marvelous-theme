@@ -4,4 +4,4 @@ title: Home
 
 # marvelous-theme
 
-This is my first theme using Jekyll
+This is my first Jekyll theme using
