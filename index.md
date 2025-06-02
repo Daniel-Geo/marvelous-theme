@@ -1,5 +1,6 @@
 ---
 title: marvelous-theme
+layout: default
 ---
 
 # marvelous-theme
